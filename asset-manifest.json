@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://cdn.statically.io/gh/doctor-damager/hazeSocietyMinterProd/main/static/js/main.3c149dd6.js",
+    "static/js/563.918ae73a.chunk.js": "https://cdn.statically.io/gh/doctor-damager/hazeSocietyMinterProd/main/static/js/563.918ae73a.chunk.js",
+    "static/js/942.3f10588c.chunk.js": "https://cdn.statically.io/gh/doctor-damager/hazeSocietyMinterProd/main/static/js/942.3f10588c.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "https://cdn.statically.io/gh/doctor-damager/hazeSocietyMinterProd/main/static/js/787.28cb0dcd.chunk.js",
+    "static/js/419.36d0ff0c.chunk.js": "https://cdn.statically.io/gh/doctor-damager/hazeSocietyMinterProd/main/static/js/419.36d0ff0c.chunk.js",
+    "static/js/48.dcbbaa79.chunk.js": "https://cdn.statically.io/gh/doctor-damager/hazeSocietyMinterProd/main/static/js/48.dcbbaa79.chunk.js",
+    "index.html": "https://cdn.statically.io/gh/doctor-damager/hazeSocietyMinterProd/main/index.html",
+    "main.3c149dd6.js.map": "https://cdn.statically.io/gh/doctor-damager/hazeSocietyMinterProd/main/static/js/main.3c149dd6.js.map",
+    "787.28cb0dcd.chunk.js.map": "https://cdn.statically.io/gh/doctor-damager/hazeSocietyMinterProd/main/static/js/787.28cb0dcd.chunk.js.map",
+    "419.36d0ff0c.chunk.js.map": "https://cdn.statically.io/gh/doctor-damager/hazeSocietyMinterProd/main/static/js/419.36d0ff0c.chunk.js.map",
+    "48.dcbbaa79.chunk.js.map": "https://cdn.statically.io/gh/doctor-damager/hazeSocietyMinterProd/main/static/js/48.dcbbaa79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3c149dd6.js"
+  ]
+}
