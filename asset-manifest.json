@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "https://cdn.bogdan-dilaj.de/hazesociety/minter/static/js/main.1f550dc9.js",
+    "main.js": "https://cdn.bogdan-dilaj.de/hazesociety/minter/static/js/main.5a726211.js",
     "static/js/563.1ec2bf6c.chunk.js": "https://cdn.bogdan-dilaj.de/hazesociety/minter/static/js/563.1ec2bf6c.chunk.js",
     "static/js/942.0e775f25.chunk.js": "https://cdn.bogdan-dilaj.de/hazesociety/minter/static/js/942.0e775f25.chunk.js",
     "static/js/787.d9e57a99.chunk.js": "https://cdn.bogdan-dilaj.de/hazesociety/minter/static/js/787.d9e57a99.chunk.js",
     "static/js/419.aa7d4fe0.chunk.js": "https://cdn.bogdan-dilaj.de/hazesociety/minter/static/js/419.aa7d4fe0.chunk.js",
     "static/js/48.4ad5ddb4.chunk.js": "https://cdn.bogdan-dilaj.de/hazesociety/minter/static/js/48.4ad5ddb4.chunk.js",
     "index.html": "https://cdn.bogdan-dilaj.de/hazesociety/minter/index.html",
-    "main.1f550dc9.js.map": "https://cdn.bogdan-dilaj.de/hazesociety/minter/static/js/main.1f550dc9.js.map",
+    "main.5a726211.js.map": "https://cdn.bogdan-dilaj.de/hazesociety/minter/static/js/main.5a726211.js.map",
     "787.d9e57a99.chunk.js.map": "https://cdn.bogdan-dilaj.de/hazesociety/minter/static/js/787.d9e57a99.chunk.js.map",
     "419.aa7d4fe0.chunk.js.map": "https://cdn.bogdan-dilaj.de/hazesociety/minter/static/js/419.aa7d4fe0.chunk.js.map",
     "48.4ad5ddb4.chunk.js.map": "https://cdn.bogdan-dilaj.de/hazesociety/minter/static/js/48.4ad5ddb4.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1f550dc9.js"
+    "static/js/main.5a726211.js"
   ]
 }
